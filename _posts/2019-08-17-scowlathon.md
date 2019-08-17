@@ -49,7 +49,7 @@ After one day:
 See the live poll: 
 
 
-![scowlathon_day3](/Users/mcrowley/Documents/personal/canadalek.github.io/assets/scowlathon_day3.jpg)
+![scowlathon_day3](/assets/scowlathon_day3.jpg)
 
 ## Round 4 of 4, quarterfinals:
 
@@ -60,7 +60,7 @@ See the live poll:
 
 Results after day 1:
 
-![](/Users/mcrowley/Documents/personal/canadalek.github.io/assets/scowlathon_day4.png)
+![](/assets/scowlathon_day4.png)
 
 See the live poll: 
 

@@ -14,5 +14,5 @@ show_tags: true
 > None has a legal birth certificate, but they reside in the same meatspace as one who does.
 
 Read more:
-- [Quark's Polls]({% link Quark.md %})
+- [Quark's Polls]({% link quark.md %})
 - [Canadalek's Musings](https://medium.com/@CANADALEK)

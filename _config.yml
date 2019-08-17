@@ -34,14 +34,14 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ## => Author and Social
 ##############################
 author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
+  type      : "person"
+  name      : CANADALEK 
+  url       : https://canadalek.github.io
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : Genetically Modified, Scientifically Relentless, Social Justice Warrior Machine.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
+  twitter   : canadale
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: canadalek.github.io
 repository_tree: master
 
 
@@ -71,7 +71,7 @@ paths:
 ## => Post
 ##############################
 ## excerpt
-excerpt_separator: <!--more-->
+excerpt_separator: <!--ELL-A-BO-RATE-->
 
 ## license
 license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
@@ -214,6 +214,24 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+
+## Octopress
+## Default extension for new posts and pages
+post_ext: md
+page_ext: html
+
+# Default templates for posts and pages
+# Found in _templates/
+post_layout: post
+page_layout: page
+
+# Format titles with titlecase?
+titlecase: true
+
+# Change default template file (in _templates/)
+post_template: post
+page_template: page
+draft_template: draft
 
 
 ## => Plugins

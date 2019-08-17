@@ -1,5 +1,8 @@
 ---
-layout: home
+layout: home	
+show_excerpt: true 
+show_info: true 
+excerpt_type: html
 
 ---
 

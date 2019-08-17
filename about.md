@@ -15,8 +15,9 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-show-title: false
+show_title: false
 key: page-about
+show_tags: true
 ---
 
 # Who am I?

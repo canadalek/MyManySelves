@@ -1,3 +1,15 @@
+site-side:
+  - titles:
+      en      : &EN       Quark's Polls
+      url: _posts/quarkspolls
+  - titles:
+      en      : &EN       A Dalek in Canada
+      url: http:medium.com
+  - titles:
+      en      : &EN       More to come...
+      url: /moretocome.md
+
+
 header:
   - titles:
       en      : &EN       Archive

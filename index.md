@@ -17,5 +17,5 @@ show_tags: true
 > 
 
 Read more:
-- [Quark's Polls]({% link quark.md %})
+- [Quark's Polls](quark)
 - [Canadalek's Musings](https://medium.com/@CANADALEK)

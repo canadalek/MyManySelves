@@ -1,5 +1,6 @@
 ---
 layout: home	
+author: CANADALEK
 show_excerpt: true 
 excerpt_type: html
 show_tags: true

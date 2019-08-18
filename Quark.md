@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "quark"
+title: quark
 show_title: false
 ---
 

@@ -17,5 +17,5 @@ show_tags: true
 > 
 
 Read more:
-- [Quark's Polls](quark)
+- [Quark's Musings](quark.html)
 - [Canadalek's Musings](https://medium.com/@CANADALEK)

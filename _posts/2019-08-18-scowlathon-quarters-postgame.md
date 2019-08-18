@@ -1,5 +1,5 @@
 ---
-title: "Scowlathon Quarter-Finals Postgame"
+title: "scowlathon postgame"
 date: 2019-08-18T01:39:27-04:00
 tags: poll, quark, RP	
 toc: true

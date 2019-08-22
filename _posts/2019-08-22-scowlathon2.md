@@ -34,5 +34,5 @@ For the data nerds here is the fully tallys for you:
 
 - Data tilting his head at you
 
-[Follow the poll live!](https://tenforward.social/@quark/102662019602906434) 
+[Follow the poll live!](https://tenforward.social/@quark/102662022927329009) 
 

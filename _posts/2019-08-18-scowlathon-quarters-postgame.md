@@ -16,5 +16,5 @@ Notable results:
 - **Jadzia's sad sigh** of judgement made a strong showing, numerically beating the winners of the previous two rounds, but as we got more respondants it became harder to eke out a win. This is especially true when faced with **Data tilting his head at you** when you say something dumb, which is, you know, a lot by Data's standards.
 - (*) As of press time, we are still waiting on the results of the fourth round but it looks like **Garek's knowing nod** is running away with the show. He already has as many votes numerically as Data, easily beating **Janeway's smirk** which performed weaker than I had expected, nothing would wither my confidence more than Captain Janeway being dissapointed in me. Interestingly **Worf's growl** and **Saru's click of judgement** are neck-and-neck for third place.
 
-See you tomorrow with with the final results and the setup for the semi-finals.
+See you [tomorrow with with the final results and the setup for the semi-finals]({% post_url 2019-08-22-scowlathon2 %}).
 

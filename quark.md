@@ -10,4 +10,5 @@ I'm not much of a gambler overall, but when I'm Quark, I'll bet on anything. So 
 
 - [The Great Galactic Scowlathon! (Quarter-Finals)]({% post_url 2019-08-17-scowlathon %})
   - [Post-game Analysis]({% post_url 2019-08-18-scowlathon-quarters-postgame %})
+  - [The Semifinals]({% post_url 2019-08-22-scowlathon2 %})
 

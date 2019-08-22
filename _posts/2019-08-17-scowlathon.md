@@ -11,8 +11,8 @@ Sixteen contenders from across the Alpha and Gamma Quadrants. Who is most disapp
 You decide!
 
 - **Quarterfinals - week of Aug 13**
-- Semifinals - Sunday Aug 18?
-- Finals - Thursday 21?
+- Semifinals - Thursday Aug 22-25
+- Finals - after that...
 
 ## Round 1 of 4, quarterfinals:
 
@@ -25,14 +25,14 @@ You decide!
 
 Who's winning after one day:
 
-<img src="/assets/scowlathon_day1.png" width="250"/>)
+<img src="/assets/scowlathon_day1.png" width="250"/>
 
 ## Round 2 of 4, quarterfinals:
 
 - O'Brien's dismissive guffaw
 - The Doctor's furled brow
 - Riker saying "damn"
-- Stamets' waiting for you to catch up
+- Stamets' hands in the air
 
 [See the live poll.](https://tenforward.social/@quark/102605886280495828)
 
@@ -45,12 +45,11 @@ After one day:
 - Jadzia's sad sigh
 - 7's surprised "I see"
 - Data tilting his head
-- Mudd faux shock
+- Mudd's faux shock
 
 [See the live poll.](https://tenforward.social/@quark/102618727359802703)
 
-
-<img src="/assets/scowlathon_day3.jpg" width="250"/>)
+<img src="/assets/scowlathon_day3.jpg" width="250"/>
 
 ## Round 4 of 4, quarterfinals:
 

@@ -2,7 +2,7 @@ header:
   - title: Quark
     url: /quark.html
   - title: A Dalek in Canada
-    url: https://medium.com/@CANADALEK
+    url: /canadalek.html
   - titles:
       en      : &EN       Archive
       en-GB   : *EN

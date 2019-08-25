@@ -25,7 +25,7 @@ You decide!
 
 Who's winning after one day:
 
-<img src="/assets/scowlathon_day1.png" width="250"/>
+<img src="/assets/scowlathon_day1.png" width="350"/>
 
 ## Round 2 of 4, quarterfinals:
 
@@ -38,7 +38,7 @@ Who's winning after one day:
 
 After one day:
 
-<img src="/assets/scowlathon_day2.png" width="250"/>
+<img src="/assets/scowlathon_day2.png" width="350"/>
 
 ## Round 3 of 4, quarterfinals:
 
@@ -49,7 +49,7 @@ After one day:
 
 [See the live poll.](https://tenforward.social/@quark/102618727359802703)
 
-<img src="/assets/scowlathon_day3.jpg" width="250"/>
+<img src="/assets/scowlathon_day3.jpg" width="350"/>
 
 ## Round 4 of 4, quarterfinals:
 
@@ -60,7 +60,7 @@ After one day:
 
 Results after day 1:
 
-<img src="/assets/scowlathon_day4.png" width="250"/>
+<img src="/assets/scowlathon_day4.png" width="350"/>
 
 [See the live poll.](https://tenforward.social/@quark/102629283657827843)
 

@@ -1,7 +1,7 @@
 ---
 title: scowlathon
 date: 2019-08-17T14:05:48-04:00
-tags: poll, quark, RP	
+tags: poll, quark, RP, scowlathon
 toc: true
 show_title: false
 ---

@@ -2,7 +2,7 @@
 layout: article
 title: "Semifinalsupdate"
 date: 2019-08-24T17:04:20-04:00
-tags: poll, quark, RP	
+tags: poll, quark, RP, scowlathon
 categories: Quark
 show_title: false
 ---

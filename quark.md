@@ -17,6 +17,7 @@ I'm not much of a gambler overall, but when I'm Quark, I'll bet on anything. So 
   - [Semifinals Update]({% post_url 2019-08-24-semifinalsupdate%})
 
   - [The Finals]({% post_url 2019-09-04-scowlathonfinals%})
+	- [The Scowlclusion]({% post_url 2019-09-09-the-scowlclusion%})
   
     
 

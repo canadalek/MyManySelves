@@ -2,6 +2,10 @@
 layout: article
 title:	"Do you know what Humanity’s Greatest Weakness is?"
 date:	2015-09-21
+tags: canadalek RP
+show_tags: true
+aside: 
+    toc: true
 ---
 
   *Waiter:* Here’s your soufflé, umm, sir.

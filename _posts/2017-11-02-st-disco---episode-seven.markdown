@@ -1,8 +1,10 @@
 ---
 layout: article
 title:	"ST:DISCO — Episode Seven"
-categories: CANADALEK
 date:	2017-11-02
+tags: quark startrek review
+aside: 
+    toc: true
 ---
 
   Here we go, time for … routine? Oh is it a routine ships running episode? Those don’t usually happen until season three or four. I’m sure it will be fine.

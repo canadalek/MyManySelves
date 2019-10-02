@@ -3,6 +3,9 @@ layout: article
 title:	"An Eyestalk-view of Toronto FanexpoCan 2016"
 categories: canadalek
 date:	2016-09-08
+tags: canadalek 
+aside: 
+    toc: true
 ---
 
   Last week I spent two days in Toronto attending the yearly Fanexpo convention. I had been many times to that and other Anime cons as a young Dalek growing up in Toronto. But last year was the first time I attended the new incarnation which sprawls across the entire north and south section of Toronto’s huge convention centre.

@@ -2,6 +2,10 @@
 layout: article
 title:	"St. Patrick’s Day on Skaro"
 date:	2015-03-18
+tags: canadalek RP
+show_tags: true
+aside: 
+    toc: true
 ---
 
   Not many people know this, but while St. Patrick is famous for banishing all the snakes from the Emerald Isle on Earth, he also visited Skaro after his death and banished all the Time Lords from our sacred world. This is why he is revered on Skaro by the Church of Patrick of Latter Day Dalekaints.

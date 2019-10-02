@@ -2,8 +2,9 @@
 layout: article
 title: scowlathon
 date: 2019-08-17T14:05:48-04:00
-tags: poll, quark, RP	
-toc: true
+tags: poll quark RP	
+aside: 
+    toc: true
 categories: Quark
 show_title: false
 ---

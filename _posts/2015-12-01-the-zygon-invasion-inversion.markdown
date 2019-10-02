@@ -2,6 +2,9 @@
 layout: article
 title:	"The Zygon Invasion/Inversion"
 date:	2015-12-01
+tags: canadalek RP	
+aside: 
+    toc: true
 ---
 
   Warning Humans and Daleks, spoilahs ahead. I’m watching the latest pair of episodes finally, responding here offline as I watch. Then I’ll post later so I don’t get the reactions from Twitter to spoil. Not that you’d do that loyal reader.

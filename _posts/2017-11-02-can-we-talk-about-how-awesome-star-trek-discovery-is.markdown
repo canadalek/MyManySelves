@@ -1,8 +1,10 @@
 ---
 layout: article
 title:	"Can we talk about how awesome Star Trek Discovery is?"
-categories: CANADALEK
 date:	2017-11-02
+tags: quark 	
+aside: 
+    toc: true
 ---
 
   Oh good, I thought it was just me. *(It goes without saying, spoilers ahead)*

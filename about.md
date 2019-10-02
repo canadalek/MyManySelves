@@ -18,9 +18,9 @@ titles:
 show_title: false
 key: page-about
 show_tags: true
-
+permalink: /about/
 ---
-
+test
 # Who am I?
 > *Brother, if only I knew I'd tell ya myself.*
 > *-- One of Me*

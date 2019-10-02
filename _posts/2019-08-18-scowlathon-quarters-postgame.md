@@ -1,8 +1,10 @@
 ---
+layout: article
 title: "scowlathon postgame"
 date: 2019-08-18T01:39:27-04:00
 tags: poll, quark, RP, scowlathon
 toc: true
+categories: Quark
 show_title: false
 ---
 

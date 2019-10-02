@@ -40,7 +40,7 @@ author:
   bio       : Genetically Modified, Scientifically Relentless, Social Justice Warrior Machine.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
-  twitter   : canadale
+  twitter   : canadalek
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
   googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
@@ -95,7 +95,7 @@ chart: # false (default), true
 
 ## => Paginate
 ##############################
-paginate: 8
+paginate: 10
 paginate_path: /page:num # don't change this unless for special need
 
 
@@ -180,7 +180,7 @@ analytics:
 ##############################
 markdown    : kramdown
 highlighter : rouge
-permalink   : date
+permalink   : /:categories/:title/
 
 exclude:
   - CHANGELOG.md
@@ -213,6 +213,11 @@ defaults:
       show_edit_on_github: true
       show_subscribe: true
       pageview: true
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
 
 ## Octopress
 ## Default extension for new posts and pages
@@ -221,7 +226,7 @@ page_ext: md
 
 # Default templates for posts and pages
 # Found in _templates/
-post_layout: post
+post_layout: article
 page_layout: page
 
 # Format titles with titlecase?

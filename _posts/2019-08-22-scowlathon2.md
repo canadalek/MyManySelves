@@ -1,8 +1,10 @@
 ---
+layout: article
 title: scowlathon2
 date: 2019-08-22T14:25:00-04:00
 tags: poll, quark, RP,scowlathon	
 toc: true
+categories: Quark
 show_title: false
 ---
 

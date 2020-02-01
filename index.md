@@ -17,12 +17,6 @@ None has a legal birth certificate, but they reside in the same meatspace as one
 </blockquote>
   
 
-Read more:
-- [Quark's Musings](quark)
-- [Canadalek's Musings](canadalek)
-- [All Articles](articles)
-
-
 <h3>Recent Posts:</h3>
 _see [all posts](allposts)_
 <ul>

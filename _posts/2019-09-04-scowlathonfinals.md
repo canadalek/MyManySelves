@@ -1,23 +1,20 @@
 ---
 layout: article
-title: "Scowlathonfinals"
+title: Scowlathon Finals
 date: 2019-09-04T15:24:25-04:00
-tags: poll, quark, RP,scowlathon
-categories: Quark
+author: quark
+tags: poll startrek mastodon
+categories:  ['RP', 'quark', 'scowlathon']
 show_title: false
+aside:
+    toc: true
 ---
 
 # Final Round of the Great Galactic Scowlathon
-    It's been a long road...
-
-
-​    
-​    
-​    
-​    
-​    
-​    
-    ...getting from...
+> It's been a long road...
+>
+>
+> ...getting from...
 
 ### Sorry!
 

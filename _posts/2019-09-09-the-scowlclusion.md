@@ -1,10 +1,13 @@
 ---
 layout: article
-title: "The Scowlclusion"
+title: The Scowlclusion!
 date: 2019-09-09T23:06:31-04:00
-tags: poll, quark, RP, scowlathon
-categories: Quark
+author: quark
+tags: poll startrek mastodon 
+categories:  ['RP', 'quark', 'scowlathon']
 show_title: false
+aside: 
+    toc: true
 ---
 
 # The Scowlclusion

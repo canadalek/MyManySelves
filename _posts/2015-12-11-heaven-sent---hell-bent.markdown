@@ -2,6 +2,7 @@
 layout: article
 title:	"Heaven Sent / Hell Bent"
 date:	2015-12-11
+author: CANADALEK
 tags: review canadalek
 show_tags: true
 aside: 

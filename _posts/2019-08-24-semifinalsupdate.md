@@ -1,9 +1,10 @@
 ---
 layout: article
-title: "Semifinalsupdate"
+title: Semi-finals Update
 date: 2019-08-24T17:04:20-04:00
-tags: poll, quark, RP, scowlathon
-categories: Quark
+author: quark
+tags: poll startrek mastodon
+categories:  ['RP', 'quark', 'scowlathon']
 show_title: false
 aside: 
     toc: true

@@ -2,10 +2,12 @@
 layout: article
 title: scowlathon
 date: 2019-08-17T14:05:48-04:00
-tags: poll, quark, RP, scowlathon
+author: quark
+tags: poll mastodon 
+categories:  ['RP', 'quark', 'scowlathon']
 aside: 
     toc: true
-categories: Quark
+categories: 
 show_title: false
 ---
 
@@ -18,7 +20,6 @@ You decide!
 - Finals - after that...
 
 ## Round 1 of 4, quarterfinals:
-
 - Kira's scowl
 - Tuvoks eyebrow raise
 - Troi's disappointed glare
@@ -31,7 +32,6 @@ Who's winning after one day:
 <img src="/assets/scowlathon_day1.png" width="350"/>
 
 ## Round 2 of 4, quarterfinals:
-
 - O'Brien's dismissive guffaw
 - The Doctor's furled brow
 - Riker saying "damn"
@@ -44,7 +44,6 @@ After one day:
 <img src="/assets/scowlathon_day2.png" width="350"/>
 
 ## Round 3 of 4, quarterfinals:
-
 - Jadzia's sad sigh
 - 7's surprised "I see"
 - Data tilting his head
@@ -55,7 +54,6 @@ After one day:
 <img src="/assets/scowlathon_day3.jpg" width="350"/>
 
 ## Round 4 of 4, quarterfinals:
-
 - Garek's knowing nod
 - Janeway's smirk
 - Worf's growl

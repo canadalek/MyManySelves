@@ -1,11 +1,12 @@
 ---
 layout: article
-title: "scowlathon postgame"
+title: Scowlathon Post-game
 date: 2019-08-18T01:39:27-04:00
-tags: poll, quark, RP, scowlathon
-toc: true
-categories: Quark
+author: quark
+tags: poll mastodon 
 show_title: false
+aside:
+    toc: true
 ---
 
 # The Great Galactic Scowlathon Quarter-Final Post Game Analysis

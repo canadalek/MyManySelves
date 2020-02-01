@@ -1,11 +1,12 @@
 ---
 layout: article
-title: scowlathon2
+title: Scowlathon II
 date: 2019-08-22T14:25:00-04:00
-tags: poll, quark, RP,scowlathon	
-toc: true
-categories: Quark
+tags: poll startrek mastodon
+categories:  ['RP', 'quark', 'scowlathon']
 show_title: false
+aside: 
+    toc: true
 ---
 
 # The Great Galactic Scowlathon!

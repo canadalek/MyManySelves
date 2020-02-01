@@ -8,7 +8,7 @@ aside:
     toc: true
 ---
 
-  *Waiter:* Here’s your soufflé, umm, sir.
+*Waiter:* Here’s your soufflé, umm, sir.
 
 *Customer:* Are you certain there is no chicken in this meal?
 

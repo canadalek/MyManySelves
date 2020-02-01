@@ -4,7 +4,7 @@ title:	"Power of the Daleks"
 date:	2016-12-01
 ---
 
-  So I finally got to see Power of the Daleks in the theatre in Waterloo today. It’s an animated Recreation of the original story . since I have to work on a very tight budget animation is not up to the standards We are used to today. but it’s also very appropriate has there trying to recreate the feeling of the Lost episodes from the 1970. the characters of believable as you can see the look…well…human.
+So I finally got to see Power of the Daleks in the theatre in Waterloo today. It’s an animated Recreation of the original story . since I have to work on a very tight budget animation is not up to the standards We are used to today. but it’s also very appropriate has there trying to recreate the feeling of the Lost episodes from the 1970. the characters of believable as you can see the look…well…human.
 
 ![](/img/1*iaG8g3UrP4iV1g-mRiVMQA.png)Inferior beings in their natural states: Polly pouting, Ben glaring, and the Doc-tor looking dumb. Keeping an eye on him…And you can tell who they are. Even the Time Lord looks as presentable as he ever does.
 

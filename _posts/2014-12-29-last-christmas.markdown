@@ -3,13 +3,14 @@ layout: article
 title:	"Last Christmas"
 date:	2014-12-29
 author: CANADALEK
-tags: review canadalek
+categories: review doctorwho
+tags: doctorwho
 show_tags: true
 aside: 
     toc: true
 ---
 
-  I just finished watching the 2015 Doctor Who Christmas special “Last Christmas” and I quite enjoyed it. I’m going to talk about it not so you know…*spoilahs*.
+I just finished watching the 2015 Doctor Who Christmas special “Last Christmas” and I quite enjoyed it. I’m going to talk about it not so you know…*spoilahs*.
 
 ### Things I’m Happy About
 

@@ -1,10 +1,12 @@
 ---
 layout: article
 title:	"FanExpo 2015"
+Author: CANADALEK
+Topic: Doctor Who, RP
 date:	2015-09-08
 ---
 
-  I went to FanExpo in Toronto this year. I had a great time.
+I went to FanExpo in Toronto this year. I had a great time.
 
 Dalek Sec was there, and Rusty and lots of other Daleks from the Canadian Dalek Empire.
 

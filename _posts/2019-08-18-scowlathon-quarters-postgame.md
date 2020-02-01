@@ -3,8 +3,10 @@ layout: article
 title: Scowlathon Post-game
 date: 2019-08-18T01:39:27-04:00
 author: quark
-tags: poll mastodon 
+categories: poll
+tags: rp ds9 mastodon 
 show_title: false
+show_tags: true
 aside:
     toc: true
 ---

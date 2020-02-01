@@ -2,6 +2,10 @@
 layout: article
 title:	"Power of the Daleks"
 date:	2016-12-01
+Author: canadalek
+Categories: review
+tags: doctorwho
+
 ---
 
 So I finally got to see Power of the Daleks in the theatre in Waterloo today. It’s an animated Recreation of the original story . since I have to work on a very tight budget animation is not up to the standards We are used to today. but it’s also very appropriate has there trying to recreate the feeling of the Lost episodes from the 1970. the characters of believable as you can see the look…well…human.

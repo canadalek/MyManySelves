@@ -2,7 +2,10 @@
 layout: article
 title:	"Can we talk about how awesome Star Trek Discovery is?"
 date:	2017-11-02
-tags: quark 	
+author: Quark
+Category: review discovery
+tags: startrek discovery
+show_tags: true
 aside: 
     toc: true
 ---

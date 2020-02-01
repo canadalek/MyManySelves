@@ -2,8 +2,9 @@
 layout: article
 title: Scowlathon II
 date: 2019-08-22T14:25:00-04:00
-tags: poll startrek mastodon
-categories:  ['RP', 'quark', 'scowlathon']
+author: quark
+categories:  poll
+tags: rp startrek mastodon scowlathon
 show_title: false
 aside: 
     toc: true

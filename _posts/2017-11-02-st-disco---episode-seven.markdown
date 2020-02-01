@@ -2,7 +2,9 @@
 layout: article
 title:	"ST:DISCO — Episode Seven"
 date:	2017-11-02
-tags: quark startrek review
+Author: quark
+Categories: review
+tags: 'startrek', 'discovery'
 aside: 
     toc: true
 ---

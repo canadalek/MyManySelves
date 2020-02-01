@@ -1,9 +1,9 @@
 ---
 layout: article
 title:	"An Eyestalk-view of Toronto FanexpoCan 2016"
-categories: canadalek
+categories: misc
 date:	2016-09-08
-tags: canadalek 
+tags: rp canadalek 
 aside: 
     toc: true
 ---

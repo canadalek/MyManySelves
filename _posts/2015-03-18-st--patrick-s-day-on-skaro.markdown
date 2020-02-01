@@ -1,8 +1,9 @@
 ---
 layout: article
 title:	"St. Patrick’s Day on Skaro"
+Author: CANADALEK
+Topic: Doctor Who, RP
 date:	2015-03-18
-tags: canadalek RP
 show_tags: true
 aside: 
     toc: true

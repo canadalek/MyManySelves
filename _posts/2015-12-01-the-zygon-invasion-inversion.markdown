@@ -2,7 +2,9 @@
 layout: article
 title:	"The Zygon Invasion/Inversion"
 date:	2015-12-01
-tags: canadalek RP	
+author: canadalek
+tags: RP doctorwho	
+categories: review
 aside: 
     toc: true
 ---

@@ -3,7 +3,8 @@ layout: article
 title:	"Heaven Sent / Hell Bent"
 date:	2015-12-11
 author: CANADALEK
-tags: review canadalek
+collection: review doctorwho
+Tags: doctorwho
 show_tags: true
 aside: 
     toc: true

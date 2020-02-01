@@ -3,10 +3,9 @@ layout: article
 title: Scowlathon Finals
 date: 2019-09-04T15:24:25-04:00
 author: quark
-tags: poll startrek mastodon
-categories:  ['RP', 'quark', 'scowlathon']
-show_title: false
-aside:
+categories: poll
+tags: startrek mastodon RP scowlathon
+aside: 
     toc: true
 ---
 
